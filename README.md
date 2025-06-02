@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer working on tech for the VFX industry, currently based in the UK.
+I'm a Lead Software Engineer working on tech for the VFX industry, currently based in the UK.
 
 <!--
 **csaez/csaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
